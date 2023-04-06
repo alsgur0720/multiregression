@@ -1,3 +1,10 @@
+
+## multiregression weights
+weights link : https://drive.google.com/file/d/1bsiOAK09JSqH68rHIvwA5r1Cm6YCgDaP/view?usp=sharing
+
+dir:
+'../pretrained/300000_G.pt'
+
 ## Create enviroments
 conda env create -f multiregression.yaml
 
