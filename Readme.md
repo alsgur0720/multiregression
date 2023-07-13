@@ -1,6 +1,6 @@
 
 ## multiregression weights
-weights link : https://drive.google.com/file/d/1bsiOAK09JSqH68rHIvwA5r1Cm6YCgDaP/view?usp=sharing
+weights link : https://drive.google.com/file/d/1nO7Td6D2sTU0TqJYPNYeLRxXTVeV9UaS/view?usp=sharing
 
 dir:
 '../pretrained/300000_G.pt'
